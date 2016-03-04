@@ -154,3 +154,5 @@ To add new files (which git doesn't track yet):
 ## Questions
 
 * What are other options for `[push] default` setting in `.gitconfig`?
+
+* Why the editor is still `nano` even though I have `editor = vim` in `.gitconfig`?
