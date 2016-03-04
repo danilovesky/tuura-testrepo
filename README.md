@@ -151,7 +151,7 @@ To add new files (which git doesn't track yet):
 
 	git add file/dir...
 
-## Questions
+### Questions
 
 * What are other options for `[push] default` setting in `.gitconfig`?
 
